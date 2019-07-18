@@ -1,0 +1,7 @@
+C:\Users\JoshB\OneDrive\PowersTable\PowersTable\bin\Debug\PowersTable.exe.config
+C:\Users\JoshB\OneDrive\PowersTable\PowersTable\bin\Debug\PowersTable.exe
+C:\Users\JoshB\OneDrive\PowersTable\PowersTable\bin\Debug\PowersTable.pdb
+C:\Users\JoshB\OneDrive\PowersTable\PowersTable\obj\Debug\PowersTable.csprojAssemblyReference.cache
+C:\Users\JoshB\OneDrive\PowersTable\PowersTable\obj\Debug\PowersTable.csproj.CoreCompileInputs.cache
+C:\Users\JoshB\OneDrive\PowersTable\PowersTable\obj\Debug\PowersTable.exe
+C:\Users\JoshB\OneDrive\PowersTable\PowersTable\obj\Debug\PowersTable.pdb
